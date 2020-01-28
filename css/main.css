@@ -1,0 +1,263 @@
+h1,h2,h3,h4,h5,h6 {
+	font-size: 25px;
+	font-family: 'Bebas Neue', cursive;
+	letter-spacing: 0.3px;
+}
+
+
+.first_text,  h3 {
+	color: black;
+}
+
+.about_text h1 {
+	color: black
+}
+
+.headings h3 {
+	color: white;
+}
+
+
+
+.hidden
+{
+  display: none;
+}
+
+.about_text, .first_text, .why_text, .contact_us {
+	line-height: 180%;
+}
+
+
+
+.container{
+height: 90px;
+background-color: #1a1819;
+}
+
+.image_container {
+	width: 100px;
+	height: 75px;
+	margin: 0 auto;
+}
+.image1 {
+	margin-top: 8px;
+}
+
+ .image2 {
+	margin-top: 5px;
+}
+
+.position1 {
+	display: flex;
+	flex-direction: row;
+}
+
+.about_text {
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+
+
+p {
+	font-family: 'Teko', sans-serif;
+	font-size: 22px;
+	letter-spacing: 0.2px;
+}
+
+
+
+
+.about_text, .first_text, .contact_us  p {
+	color: #464244;
+}
+
+
+
+.container2 {
+	background-color: #1a1819;
+	margin-top: 5px;
+}
+
+.position2 {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+
+
+.why_text {
+	margin-right: 120px;
+	margin-top: 80px;
+	color: white;
+}
+
+.image3 {
+	margin-left: 50px;
+}
+
+p{
+	line-height: 
+}
+
+.first_text h2,h3{
+display: flex;
+justify-content: center;
+}
+
+.first_text p{
+display: flex;
+justify-content: center;
+}
+
+.small_container {
+	background-color: #1a1819;
+	color: white;
+	margin-top: 20px;
+
+}
+
+.border {
+	height: 8px;
+	background-color:#1a1819;
+}
+
+.border1 {
+	height: 8px;
+	background-color: #1a1819;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+
+.border2 {
+	height: 8px;
+	background-color: #1a1819;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.border3 {
+	height: 8px;
+	background-color: #1a1819;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.container4 {
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	background-color: #1a1819;
+	color: white;
+
+}
+
+.heading2 {
+	display: flex;
+	color: white;
+	
+	justify-content: center;
+	background-color: #1a1819;
+	font-size: 20px;
+	margin-bottom: 10px;
+
+}
+
+.beer_images {
+	display: flex;
+		
+	margin: 0 auto;
+}
+.headings {
+	position: relative;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.container5 {
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+
+}
+
+.container5 h3,h4,h5,h6 {
+	
+	margin-top: 5px;
+	font-size: 20px;
+}
+
+.container5 h3 {
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+.container5 h4 {
+	margin-left: 70px;
+	
+}
+
+.container5 h5 {
+	margin-left:70px;
+	margin-right: 70px;
+}
+
+.container5 h6 {
+	margin-right:20px;
+}
+
+.contact_us {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+.contact_position {
+	margin-top: 80px;
+	font-size: 23px;
+
+}
+
+.border4 {
+margin-top: 2.5px;
+width: 3px;
+height: 200px;
+background-color: black;
+}
+
+.last_para {
+	margin-top: 7px;
+}
+
+.about_text p::first-letter {
+	font-size: 30px;
+	color: black;
+}	
+.about_text p {
+	margin-top: 20px;
+}
+
+.why_text p {
+	margin-top: 20px;
+}
+
+.text h3 {
+	letter-spacing: 0.1px;
+}
+
+.last_para {
+
+	margin-top: 30px;
+}
+
+.last_para p::first-letter {
+	font-size: 30px;
+	color: black;
+}
+
+.text p {
+	line-height: 200%; 
+}
